@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://kulcsphu.github.com/helmchartsrepo/mychart-0.1.0.tgz
+    - https://kulcsphu.github.io/helmchartsrepo/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2021-01-19T20:47:46.2280591+01:00"
